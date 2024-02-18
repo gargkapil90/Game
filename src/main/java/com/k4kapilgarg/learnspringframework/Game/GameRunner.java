@@ -1,9 +1,9 @@
 package com.k4kapilgarg.learnspringframework.Game;
 
 public class GameRunner {
-    Mario game;
+    GamingConsole game;
 
-    public GameRunner(Mario game) {
+    public GameRunner(GamingConsole game) {
         this.game = game;
     }
 

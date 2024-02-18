@@ -1,6 +1,6 @@
 package com.k4kapilgarg.learnspringframework.Game;
 
-public class Mario {
+public class Mario implements GamingConsole{
     public void Up(){
         System.out.println("Jump");
     }
